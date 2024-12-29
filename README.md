@@ -94,16 +94,3 @@ const socialLinks = {
 console.log("📫 Connect with Me:");
 console.log(socialLinks);
 ```
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Denuwan-Kalubowila&show_icons=true&theme=radical)
-
-## 🔥 Contribution Graph
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Denuwan-Kalubowila&theme=react-dark)
-
-## 📈 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Denuwan-Kalubowila&layout=compact&theme=radical)
-
